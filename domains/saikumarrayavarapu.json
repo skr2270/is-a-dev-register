@@ -1,0 +1,57 @@
+{
+    "name": "Sai Kumar Rayavarapu",
+    "titles": [
+      "Full-Stack Engineer",
+      "Cybersecurity Enthusiast",
+      "Pursuing MBA",
+      "Freelancer"
+    ],
+    "current_role": {
+      "position": "Senior Full-Stack Engineer",
+      "type": "Freelance",
+      "description": "Freelancing as a Senior Full-Stack Engineer at a start-up while pursuing my MBA, combining technical expertise with business acumen."
+    },
+    "about": "I’m an experienced Full-Stack Engineer with over 4 years of expertise in building scalable, secure web applications and systems. My journey in tech has been shaped by hands-on work in fast-paced start-up environments, where I’ve led cross-functional teams, designed robust architectures, and delivered innovative solutions. Currently, I’m freelancing as a Senior Full-Stack Engineer, working on exciting projects while enhancing my skills through an MBA program.",
+    "technologies": {
+      "backend": ["Nest.js", "Node.js", "PHP", "TypeScript", "Python"],
+      "frontend": ["React.js", "Next.js", "Tailwind CSS", "HTML5", "jQuery", "Ajax", "Bootstrap"],
+      "api_development": ["GraphQL", "RESTful APIs", "Swagger"],
+      "system_application": ["Electron.js"],
+      "databases": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+      "third_party_integrations": ["Razorpay", "Easebuzz", "MSG91", "Firebase"],
+      "architectural_patterns": ["Atomic Design Methodology", "Microservices", "Monorepo Architecture", "Modular Design"],
+      "version_control": ["Git", "GitHub", "BitBucket"],
+      "other_technologies": ["IoT Devices(BLE, ESP32/8266, Arduino Uno, MQTT, Raspberry Pi)", "Network-Attached Storage (NAS)", "Network Video Recorders (NVR)", "NeuroStation", "WordPress", "WooCommerce"]
+    },
+    "devops_infrastructure": {
+      "ci_cd": ["Docker", "Docker Compose", "Kubernetes"],
+      "cloud": ["AWS", "GCP", "Shared Hosting"]
+    },
+    "tools_utilities": {
+      "geospatial_tools": ["Google Earth Pro", "CloudCompare"],
+      "3d_modeling": ["Agisoft Metshape", "Bentley iTwin", "ContextCapture"],
+      "computer_vision": ["Roboflow", "Yolo", "Hugging Face", "Google Colab"]
+    },
+    "project_management_communication": {
+      "project_management": ["Agile Methodologies", "Project Tracker Development", "Software Design Documentation"],
+      "client_communication": ["Requirements Gathering", "Proposal Writing", "Quotation Drafting", "Pitch Decks"]
+    },
+    "cybersecurity": {
+      "penetration_testing": ["Vulnerability Assessment", "Penetration Testing (VAPT)", "Security Auditing", "Network Infrastructure Security"],
+      "digital_forensics": ["Data Extraction from Damaged HDDs", "Log Analysis"],
+      "tools": ["Nessus", "Wireshark", "Nmap", "Advanced IP Scanner", "OWASP ZAP", "Burp Suite"],
+      "operating_systems": ["Windows", "Linux(Kali and Ubuntu)"]
+    },
+    "current_project": {
+      "name": "Gig Jobs India Portal",
+      "description": "Leading the development of Web Application and Microservices for a web and mobile platform, and scaling with Docker and Kubernetes."
+    },
+    "career_goals": "With a passion for technology and a growing interest in business strategy through my MBA studies, I am constantly looking for opportunities to merge technical leadership with strategic decision-making. My goal is to drive innovation in cutting-edge tech solutions while leading dynamic teams.",
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/sai-kumar-rayavarapu-167a6a2b0",
+      "github": "https://github.com/skr2270",
+      "email": "sk.r.2270@gmail.com"
+    },
+    "note": "Always learning, always coding, and always eager to contribute to open-source projects. Feel free to contact me for freelance opportunities!"
+  }
+  
